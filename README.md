@@ -7,7 +7,4 @@
 vrindachauhan/vrindachauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Imgur](https://i.imgur.com/xdyIrRC.jpg)
-
 [![Imgur](https://i.imgur.com/XIKIbPE.jpg)](http://bit.ly/know-more-about-me-here)
